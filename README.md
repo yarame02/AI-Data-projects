@@ -42,4 +42,3 @@ I co-founded **Agrinum Startup**, a project aiming to modernize agriculture in S
 
 ##  Contact
 - Email: yarame.ba@univ-thies.sn
-- GitHub: [Your GitHub link]
