@@ -23,10 +23,11 @@ I co-founded **Agrinum Startup**, a project aiming to modernize agriculture in S
 ---
 
 ##  Awards & Achievements
--  Represented Senegal at **Startup Africa Oscars Olympiads**, Nairobi 2023.  
+-  Represented Senegal at **Startup Africa Oscars Olympiads**, Nairobi 2023.
+-  [Post](https://www.facebook.com/share/p/16xBPPZgn4/)
 
  Certificate of participation:  
-![Certificate](certificates/oscars_certificate.jpg)
+![Certificate](oscars_certificate.jpg)
 
 ---
 
