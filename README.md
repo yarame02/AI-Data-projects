@@ -27,7 +27,7 @@ I co-founded **Agrinum Startup**, a project aiming to modernize agriculture in S
 -  [Post](https://www.facebook.com/share/p/16xBPPZgn4/)
 
  Certificate of participation:  
-![Certificate](certificates/oscars_certificate.jpg)
+![Certificate](certificates/oscars_certificate.pdf)
 
 ---
 
